@@ -2,7 +2,7 @@
 Forensic Matching of Topological Fracture Surfaces
 
 ##### Authors: 
-Carlos Llosa-Vite and Geoffrey Z Thompson
+Carlos Llosa-Vite, Geoffrey Z Thompson and Ranjan Maitra
 
 ## Installation
 
